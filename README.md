@@ -24,4 +24,3 @@ Feel free to contribute by improving the game logic or UI! Fork the repository, 
 2. Paste this Markdown content into the editor.
 3. Click **"Commit new file"** to save.
 
-This will make your repository look clean and professional. 🚀 Let me know if you need any modifications!
